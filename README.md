@@ -2,6 +2,8 @@
 
 BrandBuilder is a premium, full-stack design automation platform that lets users instantly visualize commercial products and consistently render them across diverse advertising layouts. Leveraging the state-of-the-art **Gemini 3.1 Flash Lite Image** model, BrandBuilder generates studio-grade master product shots and projects them onto beautiful, context-aware marketing channels while maintaining visual consistency.
 
+![Homepage](./Homepage.png)
+
 ---
 
 ## 🎨 Core Features
@@ -28,6 +30,8 @@ Re-imagines and adapts your generated product across five distinctive advertisin
 
 ### 5. Historic Brand Vault
 - A slide-out project manager that lets you review past campaigns, load previous concepts, and save high-resolution graphics to your local library.
+
+![Brand Campaign History](./Brand%20Campaigns.png)
 
 ---
 
